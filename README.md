@@ -5,4 +5,4 @@
 
 - 🔭 I’m currently working on backend development
 - 🌱 I’m currently learning the mern stack
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/capriciousrebel/) [Gmail](code.capriciousrebel@gmail.com) 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/capriciousrebel/) [Gmail](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=code.capriciousrebel@gmail.com) 
