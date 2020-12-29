@@ -15,3 +15,5 @@
 - [Instagram](https://www.instagram.com/capricious_rebel/)
 
 <br />
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CapriciousRebel)](https://github.com/anuraghazra/github-readme-stats)
