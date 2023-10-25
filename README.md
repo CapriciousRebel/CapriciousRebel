@@ -6,8 +6,6 @@
 - 🔭 I’m currently working on software development
 - 🌱 I’m currently learning the mern stack
 
-
-
 ### Connect with me:
 
 - [Gmail](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=code.capriciousrebel@gmail.com) 
@@ -16,7 +14,7 @@
 
 <br />
 
-[![CapriciousRebel's github stats](https://github-readme-stats.vercel.app/api?username=CapriciousRebel&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![CapriciousRebel's GitHub stats](https://github-readme-stats.vercel.app/api?username=CapriciousRebel&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
