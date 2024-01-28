@@ -1,10 +1,7 @@
 ### Hi there, I'm Smith - aka Rebel
 
 
-#### I'm a sophomore pursuing Electronics and Communications Engineering from IIT Roorkee.
-
-- 🔭 I’m currently working on software development
-- 🌱 I’m currently learning the mern stack
+#### I'm a Founding Software Developer at [Kula](https://github.com/Kula-Tech)
 
 ### Connect with me:
 
