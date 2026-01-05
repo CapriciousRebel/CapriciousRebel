@@ -1,7 +1,7 @@
 ### Hi there, I'm Smith
 
 
-#### I'm a Founding Software Engineer at [Kula Technologies](https://github.com/Kula-Tech)
+#### I'm a Principal Software Engineer at [Kula Technologies](https://github.com/Kula-Tech)
 
 ### Connect with me:
 
