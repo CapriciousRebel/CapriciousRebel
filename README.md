@@ -1,10 +1,6 @@
-### Hi there, I'm Smith Pereira
+## Hi there, I'm Smith Pereira
 
-
-#### I'm a Principal Software Engineer at [Kula Technologies](https://github.com/Kula-Tech)
-
-#### I studied Electronics and Communications Engineering at IIT Roorkee
-
+#### I'm a Principal Software Engineer at [Kular AI](https://github.com/Kula-Tech)
 
 ### Connect with me:
 
